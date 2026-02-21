@@ -56,9 +56,22 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 <img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
 
 ## 3.2 Performance Analysis
+- ## Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
+### i.How many employees has left the company?
 
+<img src="https://github.com/user-attachments/assets/1e3bedf1-8563-4290-ba7f-04812ea4ac9f" width="100%" alt="Screenshot 2026-02-21 130855" />
 
+### ii.How many employees have a performance score of 5.0 / below 3.5?
 
+<img src="https://github.com/user-attachments/assets/40414a7e-f28e-4803-9f9e-e537e40d5ac2" width="100%" alt="Screenshot 2026-02-21 131149" />
+
+### iii.Which department has the most employees with a performance of 5.0 / below 3.5?
+
+<img src="https://github.com/user-attachments/assets/8d20ef82-ab2f-4996-ae7a-4f7ad89a45f5" width="100%" alt="Screenshot 2026-02-21 131613" />
+
+### iv.What is the average performance score by department?
+
+<img src="https://github.com/user-attachments/assets/23358c0a-4465-4b9a-9b7e-2766e8cdb496"  width="100%" alt="Screenshot 2026-02-21 132727" />
 
 
 
