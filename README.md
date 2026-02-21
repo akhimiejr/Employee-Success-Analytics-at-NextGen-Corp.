@@ -38,19 +38,19 @@ salary changes for each employee.
 NextGen Corp. is experiencing growing challenges related to employee turnover, inconsistent performance levels, and potential salary disparities across departments, which may impact organisational stability and long-term growth. While the company has access to structured HR data across employees, performance, attendance, turnover, and compensation, it currently lacks a unified, data-driven framework to identify retention risks, evaluate departmental performance trends, and assess pay equity in relation to performance outcomes. To support strategic workforce planning and sustainable growth, there is a need to analyse employee lifecycle data within a centralised PostgreSQL database to uncover patterns in attrition, measure performance variability, and evaluate salary fairness across roles and departments. The objective of this project is to generate actionable insights that enable HR leadership to strengthen retention strategies, improve performance management practices, and ensure equitable and performance-aligned compensation structures.
 # 3. Database Queries and Out-Put
 ## 3.1 Employee Retention Analysis
-#### i. Who are the top 5 highest serving employees?
+### i. Who are the top 5 highest serving employees?
 
 <img src="https://github.com/user-attachments/assets/005b6645-7469-4679-ac73-05c909117a0a" width="100%" alt="Screenshot 2026-02-21 105438" />
 
-#### ii. What is the turnover rate for each department?
+### ii. What is the turnover rate for each department?
 
 <img src="https://github.com/user-attachments/assets/3b63be23-6934-451d-b52a-7c3a60a33c37" width="100%" alt="Screenshot 2026-02-21 110329" />
 
-#### iii. Which employees are at risk of leaving based on their performance?
+### iii. Which employees are at risk of leaving based on their performance?
 
 <img src="https://github.com/user-attachments/assets/81790f5d-a786-4047-ac3b-c93262980e86" width="100%" alt="Screenshot 2026-02-21 125900" />
 
-#### iv. What are the main reasons employees are leaving the company?
+### iv. What are the main reasons employees are leaving the company?
 
 <img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
 
