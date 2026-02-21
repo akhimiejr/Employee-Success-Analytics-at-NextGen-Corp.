@@ -12,21 +12,24 @@ data-driven approach to:
 - Track and evaluate performance across different departments.
 - Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
 # 1.3 Data Description
-#### turnover
-- turnover_id
-- employee_id
-- turnover_date
-- reason_for_leaving
-- department_id
-#### salary
-- salary_id
-- employee_id
-- salary_date
-- salary_amount
-- depaartment_id
-#### performance
-- performance_id
-- employee_id
-- performance_date
-- performance_score
-- department_id
+#### Employees Table - 
+Contains essential employee details
+like name, job title, hire date, salary, performance score,
+attendance rate, and department affiliation.
+#### Departments Table: 
+Contains the list of departments
+within NextGen Corp. (e.g., Engineering, Sales, HR,
+Marketing).
+#### Performance Table:
+Tracks monthly performance
+scores of employees, allowing you to analyze performance
+trends over time.
+#### Attendance Table: 
+Tracks attendance records for
+employees, including whether they were present or absent.
+#### Turnover Table: 
+Contains data on employees who left
+the company, including the reason for leaving.
+#### Salaries Table:
+Provides salary data, including historical
+salary changes for each employee.
