@@ -38,6 +38,7 @@ salary changes for each employee.
 NextGen Corp. is experiencing growing challenges related to employee turnover, inconsistent performance levels, and potential salary disparities across departments, which may impact organisational stability and long-term growth. While the company has access to structured HR data across employees, performance, attendance, turnover, and compensation, it currently lacks a unified, data-driven framework to identify retention risks, evaluate departmental performance trends, and assess pay equity in relation to performance outcomes. To support strategic workforce planning and sustainable growth, there is a need to analyse employee lifecycle data within a centralised PostgreSQL database to uncover patterns in attrition, measure performance variability, and evaluate salary fairness across roles and departments. The objective of this project is to generate actionable insights that enable HR leadership to strengthen retention strategies, improve performance management practices, and ensure equitable and performance-aligned compensation structures.
 # 3. Database Queries and Out-Put
 ## 3.1 Employee Retention Analysis
+- ## Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
 ### i. Who are the top 5 highest serving employees?
 
 <img src="https://github.com/user-attachments/assets/005b6645-7469-4679-ac73-05c909117a0a" width="100%" alt="Screenshot 2026-02-21 105438" />
@@ -54,6 +55,7 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 
 <img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
 
+## 3.2 Performance Analysis
 
 
 
