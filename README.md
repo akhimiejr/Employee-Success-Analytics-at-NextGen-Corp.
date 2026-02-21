@@ -55,6 +55,10 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 
 <img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
 
+### v.Employee Attendance Overview (Bottom 10)
+
+<img src="https://github.com/user-attachments/assets/117c5a97-aa99-4cfe-8273-def92ca8ebb5" width="100%" alt="Screenshot 2026-02-21 135327" />
+
 ## 3.2 Performance Analysis
 - ## Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
 ### i.How many employees has left the company?
@@ -73,10 +77,24 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 
 <img src="https://github.com/user-attachments/assets/23358c0a-4465-4b9a-9b7e-2766e8cdb496"  width="100%" alt="Screenshot 2026-02-21 132727" />
 
+## 3.3 Salary Analysis
+- ## Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+### i.What is the total salary expense for the company?
+
+<img src="https://github.com/user-attachments/assets/43eb67ff-0b3e-4e62-8845-9c083845cd9c"  width="100%" alt="image" />
+
+### ii.What is the average salary by job title?
+
+<img src="https://github.com/user-attachments/assets/d2ae9dc5-44be-45be-9351-5df19555f713" width="100%" alt="Screenshot 2026-02-21 134206" />
 
 
+### iii.How many employees earn above 80,000?
 
+<img src="https://github.com/user-attachments/assets/dafe5e96-e8da-400e-96ff-579c3266a949"  width="100%" alt="Screenshot 2026-02-21 134400" />
 
+### iv.How does performance correlate with salary across departments?
+
+<img src="https://github.com/user-attachments/assets/b11d4bef-b27b-4bf4-b320-cc5639ed6d36" width="100%" alt="Screenshot 2026-02-21 134638" />
 
 
 
