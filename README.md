@@ -39,60 +39,60 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 # 3. Database Queries and Out-Put
 ## 3.1 Employee Retention Analysis
 - ## Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
-### i. Who are the top 5 highest serving employees?
+## i. Who are the top 5 highest serving employees?
 
 <img src="https://github.com/user-attachments/assets/005b6645-7469-4679-ac73-05c909117a0a" width="100%" alt="Screenshot 2026-02-21 105438" />
 
-### ii. What is the turnover rate for each department?
+## ii. What is the turnover rate for each department?
 
 <img src="https://github.com/user-attachments/assets/3b63be23-6934-451d-b52a-7c3a60a33c37" width="100%" alt="Screenshot 2026-02-21 110329" />
 
-### iii. Which employees are at risk of leaving based on their performance?
+## iii. Which employees are at risk of leaving based on their performance?
 
 <img src="https://github.com/user-attachments/assets/81790f5d-a786-4047-ac3b-c93262980e86" width="100%" alt="Screenshot 2026-02-21 125900" />
 
-### iv. What are the main reasons employees are leaving the company?
+## iv. What are the main reasons employees are leaving the company?
 
 <img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
 
-### v.Employee Attendance Overview (Bottom 10)
+## v.Employee Attendance Overview (Bottom 10)
 
 <img src="https://github.com/user-attachments/assets/117c5a97-aa99-4cfe-8273-def92ca8ebb5" width="100%" alt="Screenshot 2026-02-21 135327" />
 
 ## 3.2 Performance Analysis
 - ## Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
-### i.How many employees has left the company?
+## i.How many employees has left the company?
 
 <img src="https://github.com/user-attachments/assets/1e3bedf1-8563-4290-ba7f-04812ea4ac9f" width="100%" alt="Screenshot 2026-02-21 130855" />
 
-### ii.How many employees have a performance score of 5.0 / below 3.5?
+## ii.How many employees have a performance score of 5.0 / below 3.5?
 
 <img src="https://github.com/user-attachments/assets/40414a7e-f28e-4803-9f9e-e537e40d5ac2" width="100%" alt="Screenshot 2026-02-21 131149" />
 
-### iii.Which department has the most employees with a performance of 5.0 / below 3.5?
+## iii.Which department has the most employees with a performance of 5.0 / below 3.5?
 
 <img src="https://github.com/user-attachments/assets/8d20ef82-ab2f-4996-ae7a-4f7ad89a45f5" width="100%" alt="Screenshot 2026-02-21 131613" />
 
-### iv.What is the average performance score by department?
+## iv.What is the average performance score by department?
 
 <img src="https://github.com/user-attachments/assets/23358c0a-4465-4b9a-9b7e-2766e8cdb496"  width="100%" alt="Screenshot 2026-02-21 132727" />
 
 ## 3.3 Salary Analysis
 - ## Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
-### i.What is the total salary expense for the company?
+## i.What is the total salary expense for the company?
 
 <img src="https://github.com/user-attachments/assets/43eb67ff-0b3e-4e62-8845-9c083845cd9c"  width="100%" alt="image" />
 
-### ii.What is the average salary by job title?
+## ii.What is the average salary by job title?
 
 <img src="https://github.com/user-attachments/assets/d2ae9dc5-44be-45be-9351-5df19555f713" width="100%" alt="Screenshot 2026-02-21 134206" />
 
 
-### iii.How many employees earn above 80,000?
+## iii.How many employees earn above 80,000?
 
 <img src="https://github.com/user-attachments/assets/dafe5e96-e8da-400e-96ff-579c3266a949"  width="100%" alt="Screenshot 2026-02-21 134400" />
 
-### iv.How does performance correlate with salary across departments?
+## iv.How does performance correlate with salary across departments?
 
 <img src="https://github.com/user-attachments/assets/b11d4bef-b27b-4bf4-b320-cc5639ed6d36" width="100%" alt="Screenshot 2026-02-21 134638" />
 
