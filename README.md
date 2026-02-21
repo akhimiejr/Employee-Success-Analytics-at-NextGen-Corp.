@@ -96,9 +96,27 @@ NextGen Corp. is experiencing growing challenges related to employee turnover, i
 
 <img src="https://github.com/user-attachments/assets/b11d4bef-b27b-4bf4-b320-cc5639ed6d36" width="100%" alt="Screenshot 2026-02-21 134638" />
 
+# Conclusion
+NextGen Corp faces department-specific 
+turnover, uneven performance, and salary
+performance misalignment. Data analysis 
+reveals that low performance, limited growth 
+opportunities, and compensation gaps are key 
+drivers of employee exit and engagement 
+risks. High-performing employees in 
+underpaid roles indicate potential retention 
+challenges. These insights highlight areas 
+where HR can focus interventions to improve 
+retention, performance, and compensation 
+fairness, supporting organizational stability 
+and employee satisfaction.
 
-
-
+# Recommendations – HR Action Plan
+- Implement targeted retention programs for employees at risk of leaving.
+- Conduct training and development initiatives for departments with low performance.
+- Align compensation with performance and market benchmarks.
+- Use continuous HR analytics to monitor trends and guide workforce planning.
+- Leverage highperforming departments as models to scale best practices.
 
 
 
